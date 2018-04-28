@@ -1,7 +1,13 @@
-# DubboTool_v1.0.1
-## dubbo接口测试工具第一版
-## 基于zookeeper的dubbo接口测试
-### 使用方法：<br/>
+# dubbo接口测试工具
+# 基于zookeeper的dubbo接口测试
+## DubboTool_v1.0.1版本更新
+## 新增接口返回值处理
+## 调整接口返回值显示方式
+## 调整界面布局
+
+
+## DubboTool_v1.0.1版本更新
+## 使用方法：<br/>
 <br/>
 输入zookeeper中监听dubbo的地址和端口号<br/>
 <br/>
